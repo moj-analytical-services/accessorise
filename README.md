@@ -28,6 +28,8 @@ This function accepts a series of lists as arguments. Each list contains a serie
 
 eg. tables[[1]] contains the table for the first tab of the workbook, titles[[1]] contains the title for this table, and so on.
 
+#### Syntax
+
 ```r
 makeExcel(
   tables,
@@ -53,8 +55,6 @@ makeExcel(
 
 - **filename**: A string showing the filename to give to the exported Excel workbook. The filename should include the extension .xlsx
 
-{% note %}
 
-**NOTE:** This function will output a .XLSX file. You must open this file in Excel and save it in .ODS format before publishing on Gov.Uk
+> **NOTE:** This function will output a .XLSX file. You must open this file in Excel and save it in .ODS format before publishing on Gov.Uk
 
-{% endnote %}
