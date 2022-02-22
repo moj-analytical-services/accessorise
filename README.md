@@ -1,3 +1,5 @@
+> :warning: **This package is not being supported and is being left here temporarily for users who are currently using it in projects. For a supported version of this package, please use [mojtable](https://github.com/moj-analytical-services/mojtable)**
+
 # accessorise
 
 > Create statistical outputs that meet accessibility requirements
